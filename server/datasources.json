@@ -1,0 +1,13 @@
+{
+  "mongodb": {
+    "name": "mongodb",
+    "host": "localhost",
+    "port": 27017,
+    "url": "",
+    "database": "desenv",
+    "user": "root",
+    "password": "",
+    "useNewUrlParser": true,
+    "connector": "mongodb"
+  }
+}
